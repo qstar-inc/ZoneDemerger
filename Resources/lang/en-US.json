@@ -1,0 +1,23 @@
+{
+	"Assets.NAME[EU Commercial Gas]": "EU Commercial Gas",
+	"Assets.DESCRIPTION[EU Commercial Gas]": "European style gas stations.",
+    "Assets.NAME[EU Commercial Motel]": "EU Commercial Motel",
+	"Assets.DESCRIPTION[EU Commercial Motel]": "European style motels.",
+    "Assets.NAME[EU Commercial Hotel]": "EU Commercial Hotel",
+	"Assets.DESCRIPTION[EU Commercial Hotel]": "European style hotels.",
+    "Assets.NAME[NA Commercial Gas]": "NA Commercial Gas",
+	"Assets.DESCRIPTION[NA Commercial Gas]": "North American style gas stations.",
+    "Assets.NAME[NA Commercial Motel]": "NA Commercial Motel",
+	"Assets.DESCRIPTION[NA Commercial Motel]": "North American style motels.",
+    "Assets.NAME[NA Commercial Hotel]": "NA Commercial Hotel",
+	"Assets.DESCRIPTION[NA Commercial Hotel]": "North American style hotels.",
+	"Assets.NAME[Industrial Warehouse]": "Industrial Warehouse",
+	"Assets.DESCRIPTION[Industrial Warehouse]": "Warehouses and storage yards.",
+
+	
+	"Assets.DESCRIPTION[Industrial Manufacturing]": "Workshops and factories.",
+	"Assets.DESCRIPTION[EU Commercial Low]": "European style stores, boutiques, supermarkets, restaurants, bars, travel agencies.",
+	"Assets.DESCRIPTION[EU Commercial High]": "European style supermarkets, malls, big movie theaters, concert halls, theaters, fitness centers, department stores.",
+	"Assets.DESCRIPTION[NA Commercial Low]": "North American style stores, boutiques, supermarkets, restaurants, bars, travel agencies.",
+	"Assets.DESCRIPTION[NA Commercial High]": "North American style supermarkets, malls, big movie theaters, concert halls, theaters, fitness centers, department stores.",
+}
